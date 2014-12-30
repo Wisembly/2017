@@ -366,7 +366,8 @@ html {
     font-size: 45%; }
 
   .Wrapper {
-    width: 320px; }
+    min-width: 320px;
+    width: 100%; }
  }
 
 /* Sections */
@@ -376,26 +377,22 @@ html {
   padding: 4rem 0 20rem 0; }
 
 .FirstValue {
-  background: url('../images/firstvalue.svg') center top no-repeat;
-  height: 115rem;
   margin-top: -26rem;
-  padding-top: 26rem; }
+  position: relative; }
+  .FirstValue .ValueContent {
+    top: 26rem; }
 
 .SecondValue {
-  background: url('../images/secondvalue.svg') center bottom no-repeat;
-  height: 91.4rem; }
+  position: relative; }
 
 .ThirdValue {
-  background: url('../images/thirdvalue.svg') center bottom no-repeat;
-  height: 81.8rem; }
+  position: relative; }
 
 .FourthValue {
-  background: url('../images/fourthvalue.svg') center bottom no-repeat;
-  height: 100rem; }
+  position: relative; }
 
 .FifthValue {
-  background: url('../images/fifthvalue.svg') center bottom no-repeat;
-  height: 46rem; }
+  position: relative; }
 
 .SocialSharing {
   list-style: none;
@@ -425,30 +422,36 @@ html {
 
 .Footer {
   color: #FFFFFF;
-  background: url('../images/footer.svg') center top no-repeat;
-  height: 62.5rem;
-  padding-top: 28.5rem; }
+  position: relative; }
+
+.FooterContent {
+  position: absolute;
+  top: 27rem;
+  left: 0;
+  right: 0; }
+
+.FooterHack {
+  height: 2px;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  background: #07698D; }
 
 @media screen and (max-width: 480px) {
+  .Header {
+    padding-bottom: 30rem; }
+
   .FirstValue {
-    padding-top: 22rem;
-    height: 98rem; }
+    margin-top: -35rem; }
+    .FirstValue .ValueContent {
+      top: 32rem; }
 
-  .SecondValue {
-    height: 78rem; }
 
-  .ThirdValue {
-    height: 70rem; }
 
-  .FourthValue {
-    height: 86rem; }
 
-  .FifthValue {
-    height: 40rem; }
 
-  .Footer {
-    padding-top: 22rem;
-    height: 53.25rem; }
+  .Footer .FooterContent {
+    top: 23rem; }
  }
 
 /* Headings */
@@ -457,6 +460,12 @@ html {
   line-height: 4.4rem;
   font-weight: 500;
   margin: 0; }
+
+.ValueContent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0; }
 
 .ValueTitle {
   font-size: 2.5rem;

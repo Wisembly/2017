@@ -1,0 +1,318 @@
+/* Styles */
+
+@import "_normalize.scss";
+@import "_fonts.scss";
+
+/* Colours */
+
+$White: #FFFFFF;
+$Grey: #686F74;
+$AlternativeGrey: #A8A8A8;
+
+$WisemblyBlue: #07698D;
+$WisemblyOrange: #F6886D;
+$WisemblyRed: #E15C5B;
+$WisemblyYellow: #EDBA34;
+$WisemblyGreen: #45B388;
+
+html {
+	background: #eee;
+	font-size: 62.5%;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+
+/* Grid */
+
+.Wrapper {
+	width: 52rem;
+	margin: 0 auto;
+	background: $White;
+}
+
+@media screen and (max-width: 480px) {
+
+	html {
+		font-size: 45%;
+	}
+
+	.Wrapper {
+		width: 320px;
+	}
+
+}
+
+/* Sections */
+
+.Header {
+	color: $White;
+	background: $WisemblyBlue;
+	padding: 4rem 0 20rem 0;
+}
+
+.FirstValue {
+	// background: url('../images/firstvalue.png') center top no-repeat;
+	background: url('../images/firstvalue.svg') center top no-repeat;
+	height: 115rem;
+	margin-top: -26rem;
+	padding-top: 26rem;
+}
+
+.SecondValue {
+	// background: url('../images/secondvalue.png') center bottom no-repeat;
+	background: url('../images/secondvalue.svg') center bottom no-repeat;
+	height: 91.4rem;
+}
+
+.ThirdValue {
+	// background: url('../images/thirdvalue.png') center bottom no-repeat;
+	background: url('../images/thirdvalue.svg') center bottom no-repeat;
+	height: 81.8rem;
+}
+
+.FourthValue {
+	// background: url('../images/fourthvalue.png') center bottom no-repeat;
+	background: url('../images/fourthvalue.svg') center bottom no-repeat;
+	height: 100rem;
+}
+
+.FifthValue {
+	// background: url('../images/fifthvalue.png') center bottom no-repeat;
+	background: url('../images/fifthvalue.svg') center bottom no-repeat;
+	height: 46rem;
+}
+
+.SocialSharing {
+	list-style: none;
+	position: fixed;
+	top: 50%;
+	padding-left: 0;
+	margin-top: -7.5rem;
+	left: 5rem;
+}
+
+.SocialLink {
+	background: $White;
+	margin: .5rem 0;
+	border: 1px solid $AlternativeGrey;
+	height: 3rem;
+	width: 3rem;
+	display: block;
+	font-size: 0;
+}
+
+.Facebook {
+	background: rgba(255,255,255,.6) url('../images/facebook.svg') center center no-repeat;
+}
+
+.Linkedin {
+	background: rgba(255,255,255,.6) url('../images/linkedin.svg') center center no-repeat;
+}
+
+.Twitter {
+	background: rgba(255,255,255,.6) url('../images/twitter.svg') center center no-repeat;
+}
+
+
+.Footer {
+	color: $White;
+	// background: url('../images/footer.png') center top no-repeat;
+	background: url('../images/footer.svg') center top no-repeat;
+	height: 62.5rem;
+	padding-top: 28.5rem;
+}
+
+@media screen and (max-width: 480px) {
+
+	.FirstValue {
+		padding-top: 22rem;
+		height: 98rem;
+	}
+
+	.SecondValue {
+		height: 78rem;
+	}
+
+	.ThirdValue {
+		height: 70rem;
+	}
+
+	.FourthValue {
+		height: 86rem;
+	}
+
+	.FifthValue {
+		height: 40rem;
+	}
+
+	.Footer {
+		padding-top: 22rem;
+		height: 53.25rem
+	}
+
+}
+
+
+/* Headings */
+
+.MainHeading,
+.MainSubline {
+	font-size: 3.4rem;
+	line-height: 4.4rem;
+	font-weight: 500;
+	margin: 0;
+}
+
+// .MainSubline {
+
+// 	&:after {
+// 		content: "";
+// 		background: $White;
+// 		display: block;
+// 		width: 4.3rem;
+// 		height: .2rem;
+// 		margin: .5rem auto 0;
+// 	}
+
+// }
+
+.ValueTitle {
+	font-size: 2.5rem;
+	line-height: 3.3rem;
+	text-transform: uppercase;
+	max-width: 26.5rem;
+	margin: 0 auto;
+
+	&:after {
+		content: "";
+		display: block;
+		width: 4.3rem;
+		height: .2rem;
+		margin: 2rem auto;
+	}
+}
+
+.FirstValue-title {
+	color: $WisemblyOrange;
+
+	&:after {
+		background: $WisemblyOrange;
+	}
+
+}
+
+.SecondValue-title {
+	color: $WisemblyRed;
+
+	&:after {
+		background: $WisemblyRed;
+	}
+
+}
+
+.ThirdValue-title {
+	color: $WisemblyYellow;
+
+	&:after {
+		background: $WisemblyYellow;
+	}
+
+}
+
+.FourthValue-title {
+	color: $WisemblyGreen;
+
+	&:after {
+		background: $WisemblyGreen;
+	}
+
+}
+
+.FifthValue-title {
+	color: $WisemblyBlue;
+
+	&:after {
+		background: $WisemblyBlue;
+	}
+
+}
+
+.FooterHeading {
+	font-size: 2.9rem;
+	font-weight: 500;
+	margin: 0 0 1rem;
+}
+
+/* Layout */
+
+.ValueCaption {
+	color: $Grey;
+	max-width: 28.5rem;
+	margin: 0 auto;
+	font-size: 1.4rem;
+	line-height: 2.5rem;
+	text-align: center;
+
+	+.ValueCaption {
+		padding-top: 1rem;
+	}
+}
+
+.FooterText {
+	font-weight: 400;
+	font-size: 1.7rem;
+	line-height: 3rem;
+	max-width: 26.5rem;
+	margin: 0 auto;
+}
+
+.Highlight {
+	display: block;
+	font-size: 2rem;
+	line-height: 3rem;
+}
+
+.Title--block {
+	display: block;
+}
+
+.Span--small {
+	font-size: 1rem;
+}
+
+.Span--large {
+	font-size: 2.5rem;
+}
+
+.Span--xlarge {
+	font-size: 3.4rem;
+	line-height: 4.7rem;
+	font-weight: 500;
+	display: block;
+	margin: 0 auto;
+}
+
+.Span--underline {
+	border-bottom: 2px solid $White;
+	padding-bottom: 1rem;
+}
+
+@media screen and (max-width: 480px) {
+
+	.Highlight {
+		font-size: 2.1rem;
+	}
+
+	.ValueCaption {
+		max-width: 30rem;
+		font-size: 1.5rem;
+	}
+
+	.Span--small {
+		font-size: 8px;
+	}
+
+}

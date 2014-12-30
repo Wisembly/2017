@@ -40,7 +40,8 @@ html {
 	}
 
 	.Wrapper {
-		width: 320px;
+		min-width: 320px;
+		width: 100%;
 	}
 
 }
@@ -55,34 +56,42 @@ html {
 
 .FirstValue {
 	// background: url('../images/firstvalue.png') center top no-repeat;
-	background: url('../images/firstvalue.svg') center top no-repeat;
-	height: 115rem;
+	// background: url('../images/firstvalue.svg') center top no-repeat;
+	// min-height: 115rem;
 	margin-top: -26rem;
-	padding-top: 26rem;
+	position: relative;
+	// padding-top: 26rem;
+	.ValueContent {
+		top: 26rem;
+	}
 }
 
 .SecondValue {
 	// background: url('../images/secondvalue.png') center bottom no-repeat;
-	background: url('../images/secondvalue.svg') center bottom no-repeat;
-	height: 91.4rem;
+	// background: url('../images/secondvalue.svg') center bottom no-repeat;
+	position: relative;
+	// height: 91.4rem;
 }
 
 .ThirdValue {
 	// background: url('../images/thirdvalue.png') center bottom no-repeat;
-	background: url('../images/thirdvalue.svg') center bottom no-repeat;
-	height: 81.8rem;
+	// background: url('../images/thirdvalue.svg') center bottom no-repeat;
+	position: relative;
+	// height: 81.8rem;
 }
 
 .FourthValue {
 	// background: url('../images/fourthvalue.png') center bottom no-repeat;
-	background: url('../images/fourthvalue.svg') center bottom no-repeat;
-	height: 100rem;
+	// background: url('../images/fourthvalue.svg') center bottom no-repeat;
+	position: relative;
+	// height: 100rem;
 }
 
 .FifthValue {
 	// background: url('../images/fifthvalue.png') center bottom no-repeat;
-	background: url('../images/fifthvalue.svg') center bottom no-repeat;
-	height: 46rem;
+	// background: url('../images/fifthvalue.svg') center bottom no-repeat;
+	position: relative;
+	// height: 46rem;
 }
 
 .SocialSharing {
@@ -119,38 +128,61 @@ html {
 
 .Footer {
 	color: $White;
+	position: relative;
 	// background: url('../images/footer.png') center top no-repeat;
-	background: url('../images/footer.svg') center top no-repeat;
-	height: 62.5rem;
-	padding-top: 28.5rem;
+	// background: url('../images/footer.svg') center top no-repeat;
+	// height: 62.5rem;
+	// padding-top: 28.5rem;
+}
+
+.FooterContent {
+	position: absolute;
+	top: 27rem;
+	left: 0;
+	right: 0;
+}
+
+.FooterHack {
+	height: 2px;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	background: $WisemblyBlue;
 }
 
 @media screen and (max-width: 480px) {
 
+	.Header {
+		padding-bottom: 30rem;
+	}
+
 	.FirstValue {
-		padding-top: 22rem;
-		height: 98rem;
+		margin-top: -35rem;
+
+		.ValueContent {
+			top: 32rem;
+		}
+
 	}
 
 	.SecondValue {
-		height: 78rem;
 	}
 
 	.ThirdValue {
-		height: 70rem;
 	}
 
 	.FourthValue {
-		height: 86rem;
 	}
 
 	.FifthValue {
-		height: 40rem;
 	}
 
 	.Footer {
-		padding-top: 22rem;
-		height: 53.25rem
+		// padding-top: 22rem;
+		// height: 53.25rem
+		.FooterContent {
+			top: 23rem;
+		}
 	}
 
 }
@@ -178,6 +210,13 @@ html {
 // 	}
 
 // }
+
+.ValueContent {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+}
 
 .ValueTitle {
 	font-size: 2.5rem;

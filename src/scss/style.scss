@@ -113,8 +113,19 @@ html {
 	font-size: 0;
 }
 
+.SocialLinkSeparator {
+	margin: .5rem 0;
+	height: 1px;
+	background: $AlternativeGrey;
+	display: block;
+}
+
 .WisemblyCorp {
 	background: rgba(255,255,255,.6) url('../images/wisembly.svg') center center no-repeat;
+}
+
+.Solid {
+	background: rgba(255,255,255,.6) url('../images/solid.svg') center center no-repeat;
 }
 
 .Facebook {

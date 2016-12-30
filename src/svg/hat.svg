@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="395px" height="130px" viewBox="0 0 395 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Voeux-2016" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Voeux_2016_wisembly_EN" transform="translate(-443.000000, -3360.000000)">
+            <g id="3-/-XP-WISEMBLY" transform="translate(0.000000, 3149.000000)">
+                <g id="ILLUS-SUCCESS" transform="translate(280.000000, 211.000000)">
+                    <g id="Group-11" transform="translate(163.000000, 0.000000)">
+                        <g id="pointillés" transform="translate(0.000000, 62.000000)">
+                            <path d="M4,0 L391,0.247664349 L391,27 M4,0 L3,27" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,10,1,10"></path>
+                            <circle id="Oval" fill="#FFFFFF" cx="3.5" cy="34.5" r="3.5"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="391.5" cy="34.5" r="3.5"></circle>
+                        </g>
+                        <g id="picto-success" transform="translate(132.000000, 0.000000)">
+                            <path d="M129.978388,64.9888754 C129.978388,100.881803 100.881693,129.978315 64.9887661,129.978315 C29.0965672,129.978315 5.46218489e-05,100.881803 5.46218489e-05,64.9888754 C5.46218489e-05,29.0964944 29.0965672,-1.82072831e-05 64.9887661,-1.82072831e-05 C100.881693,-1.82072831e-05 129.978388,29.0964944 129.978388,64.9888754" id="Fill-1" fill="#FFFFFF"></path>
+                            <path d="M95.5922343,59.5551865 L67.931548,75.3494582 L36.9310998,68.176335 L37.549055,86.3324885 C37.549055,86.3324885 77.031548,105.48127 95.5922343,77.588623 L95.5922343,59.5551865 Z" id="Fill-4" fill="#41A07A"></path>
+                            <polygon id="Fill-6" fill="#47B388" points="113.903645 49.0992538 59.4662357 39.2886235 14.0731124 62.887265 67.9317119 75.3496039"></polygon>
+                            <polygon id="Fill-8" fill="#1F7D56" points="67.931639 75.3495493 14.0732217 62.8872103 14.0732217 65.8040171 68.5679836 78.4500675 113.903572 52.7506697 113.903572 49.0991991"></polygon>
+                            <polygon id="Fill-10" fill="#F1BC33" points="63.1399009 57.3190773 88.5523519 63.5749176 88.5523519 79.4655555 91.2495788 73.2796311 93.0169598 74.7524183 93.0169598 61.0257159 67.6842567 54.8847636"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

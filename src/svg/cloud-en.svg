@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="902px" height="493px" viewBox="0 0 902 493" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M67.9591813,165.905698 C-23,129 4,66 5.99609375,61.7226562 C7.9921875,57.4453125 59.9591813,-69 199,54 C239,95 257,171 203.318063,267.625094 C149.636126,364.250188 49.5375583,416.599958 49.5375583,416.599958 C49.5375583,416.599958 128.029691,378.154832 148.053194,287.648597 C148.053194,287.648597 165.587607,205.517368 67.9591813,165.905698 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="240.047858" height="420.238835">
+            <rect x="-1.26967066" y="-1.63887718" width="240.047858" height="420.238835" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M42.6465741,12.240798 C93.9592968,-27.7171121 130.663722,49.2496982 101.897499,71.0449219 C73.1312756,92.8401456 10.0107105,107.361148 0.663437224,135.020558 C0.663437224,135.020558 -8.66614874,52.1987081 42.6465741,12.240798 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="114" height="136.100357">
+            <rect x="-1" y="-0.0797990541" width="114" height="136.100357" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <path d="M49.7405845,245.197875 C49.7405845,245.197875 -10.3616891,113.549655 2.72419601,58.5731692 C15,7 75.2637668,-30.6821249 114.220203,36.5491356 C153.176639,103.780396 63.1738383,271.858547 63.1738383,271.858547 L49.7405845,245.197875 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="125.139814" height="273.503535">
+            <rect x="-0.139814431" y="-0.644987383" width="125.139814" height="273.503535" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+        <path d="M42.9751106,95 C-22.041407,95 -6.05373875,21.3483146 42.9751106,7.47191011 C92.00396,-6.40449438 174.07399,-4.26966292 201.785949,42.6966292 C230.884427,92.0127979 270,95 270,95 C270,95 107.991628,95 42.9751106,95 Z" id="path-7"></path>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1.06584455" y="-1.06584455" width="272.131689" height="97.1316891">
+            <rect x="-1.06584455" y="-1.06584455" width="272.131689" height="97.1316891" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <path d="M63.8294911,60.4472859 C80,-30 188.946613,-6.55138448 202.145186,50.3198276 C213.886522,100.911845 178.900821,139.324384 142,167 C110,191 0,222.309958 0,222.309958 C0,222.309958 47.6589823,150.894572 63.8294911,60.4472859 Z" id="path-9"></path>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="206.455943" height="224.282852">
+            <rect x="-1" y="-0.972894164" width="206.455943" height="224.282852" fill="white"></rect>
+            <use xlink:href="#path-9" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Voeux-2016" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Voeux_2016_wisembly_EN" transform="translate(-189.000000, -4887.000000)">
+            <g id="4-/-MOT-DE-LA-TEAM" transform="translate(-2.000000, 4608.000000)">
+                <g id="illustration-nuage-de-mots" transform="translate(191.000000, 281.000000)">
+                    <g id="Group-2">
+                        <polygon id="ligne" fill="#07698D" points="0 491 900 491 900 486 0 486"></polygon>
+                        <g id="bulles">
+                            <g id="engagement" transform="translate(0.000000, 62.000000)">
+                                <path d="M213.138072,249.172356 C48,235 29,212 9.72347978,177.2992 C-16.4432582,130.194913 -0.147908725,-50.746394 202.289293,14.5675264 C371,69 349,356 349,356 C333.730243,369.822803 378.276143,263.344712 213.138072,249.172356 Z" id="Fill-1" fill="#07698D"></path>
+                                <text id="Commitment" font-family="ProximaNova-Semibold, Proxima Nova" font-size="30" font-weight="500" line-spacing="45" fill="#FFFFFF">
+                                    <tspan x="69.07" y="134">Commitment</tspan>
+                                </text>
+                            </g>
+                            <g id="video-com" transform="translate(474.000000, 0.000000)">
+                                <g id="Fill-1">
+                                    <use fill="#07698D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                    <use stroke="#07698D" mask="url(#mask-2)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-1"></use>
+                                </g>
+                                <text id="Video-Communication" font-family="ProximaNova-Semibold, Proxima Nova" font-size="24" font-weight="500" line-spacing="30" fill="#FFFFFF">
+                                    <tspan x="89.488" y="93">Video</tspan>
+                                    <tspan x="36.556" y="123">Communication</tspan>
+                                </text>
+                            </g>
+                            <g id="mobilité" transform="translate(714.000000, 128.000000)">
+                                <g id="Fill-1">
+                                    <use fill="#07698D" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    <use stroke="#07698D" mask="url(#mask-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+                                </g>
+                                <text id="Mobility" font-family="ProximaNova-Semibold, Proxima Nova" font-size="18" font-weight="500" line-spacing="45" fill="#FFFFFF">
+                                    <tspan x="29.685" y="48">Mobility</tspan>
+                                </text>
+                            </g>
+                            <g id="transparence" transform="translate(719.000000, 220.000000)">
+                                <path d="M43.8033006,146.069023 C55.0243095,136.861722 69.4032069,126.458594 87.3392126,115.900997 C141.838993,83.8204084 180.268433,83.8204084 181.665935,53.8786205 C183.063437,23.937308 150.922756,-19.5497441 79.6534178,9.67911006 C6.6972951,39.5999852 0.0892268376,112.010759 0.0302792086,149 C-3.63797881e-12,168 2.43398254,185.649674 0.0302792086,199.139329 C11.0752028,178.8288 25.9376359,160.728365 43.8033006,146.069023 Z" id="Page-1" stroke="#07698D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#07698D"></path>
+                                <text id="Transparency" font-family="ProximaNova-Semibold, Proxima Nova" font-size="18" font-weight="500" line-spacing="45" fill="#FFFFFF">
+                                    <tspan x="45.865" y="55">Transparency</tspan>
+                                </text>
+                            </g>
+                            <g id="cohésion" transform="translate(334.000000, 72.000000)">
+                                <g id="Page-1">
+                                    <use fill="#07698D" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                    <use stroke="#07698D" mask="url(#mask-6)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-5"></use>
+                                </g>
+                                <text id="Cohesion" font-family="ProximaNova-Semibold, Proxima Nova" font-size="18" font-weight="500" line-spacing="45" fill="#FFFFFF">
+                                    <tspan x="24.376" y="77">Cohesion</tspan>
+                                </text>
+                            </g>
+                            <g id="teletravail" transform="translate(58.000000, 327.000000)">
+                                <g id="Fill-1">
+                                    <use fill="#07698D" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                    <use stroke="#07698D" mask="url(#mask-8)" stroke-width="2.1316891" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-7"></use>
+                                </g>
+                                <text id="Remote-work" font-family="ProximaNova-Semibold, Proxima Nova" font-size="24" font-weight="500" line-spacing="45" fill="#FFFFFF">
+                                    <tspan x="34.188" y="57">Remote work</tspan>
+                                </text>
+                            </g>
+                            <g id="productivité" transform="translate(394.000000, 196.000000)">
+                                <g id="Page-1">
+                                    <use fill="#07698D" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                    <use stroke="#07698D" mask="url(#mask-10)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-9"></use>
+                                </g>
+                                <text id="Productivity" font-family="ProximaNova-Semibold, Proxima Nova" font-size="18" font-weight="500" line-spacing="45" fill="#FFFFFF">
+                                    <tspan x="81.282" y="79">Productivity</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

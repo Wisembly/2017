@@ -1,0 +1,43 @@
+.Quote {
+  text-align: center;
+  margin-top: $mg--l;
+
+  &:before {
+    content: "";
+    display: block;
+    margin: 0 auto $mg--s;
+    height: r(6);
+    width: r(6);
+    opacity: .25;
+    background-image: url("../../node_modules/tapestry-css/src/svg/icons/quotes.svg");
+  }
+}
+
+.Quote-text {
+  margin-bottom: $mg--m;
+  font-weight: $fw--semi-bold;
+  font-size: fz(3);
+  line-height: $lh--l;
+}
+
+.Quote-author {
+  font-size: fz(1);
+}
+
+.Quote-authorImg {
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.Quote-authorImg--woman1 {
+  background-image: url('../svg/avatar1.svg');
+}
+
+.Quote-authorImg--woman2 {
+  background-image: url('../svg/avatar2.svg');
+}
+
+.Quote-authorImg--man {
+  background-image: url('../svg/avatar3.svg');
+}

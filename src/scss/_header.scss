@@ -1,0 +1,17 @@
+.Header {
+  padding: $pd--xl $pd--m;
+  text-align: center;
+}
+
+.Header-logo {
+  height: r(13);
+  background-image: url('../svg/logo.svg');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.Header-title {
+  font-weight: $fw--semi-bold;
+  color: $venice-blue;
+}

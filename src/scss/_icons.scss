@@ -1,0 +1,24 @@
+.Icon {
+  display: inline-block;
+  vertical-align: middle;
+  height: r(4);
+  width: r(4);
+  opacity: .5;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.Icon--s {
+  height: r(3);
+  width: r(3);
+}
+
+.Icon--chevron {
+  background-image: url("../../node_modules/tapestry-css/src/svg/icons/arrowDown.svg");
+}
+
+.Icon--checkmark {
+  background-image: url("../../node_modules/tapestry-css/src/svg/icons/checkmark.svg");
+  filter: hue-rotate(308deg) saturate(15) brightness(1);
+}

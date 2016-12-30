@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="679px" viewBox="0 0 320 679" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>illustration nuage de mots</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M34.1172592,9.79263839 C75.1674375,-22.1736897 104.530978,39.3997585 81.5179992,56.8359375 C58.5050204,74.2721165 8.00856842,85.8889183 0.530749779,108.016447 C0.530749779,108.016447 -6.93291899,41.7589665 34.1172592,9.79263839 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.8" y="-0.8" width="91.2" height="108.880286">
+            <rect x="-0.8" y="-0.0638392433" width="91.2" height="108.880286" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M51.0635929,48.3578287 C64,-24 151.15729,-5.24110758 161.716149,40.2558621 C171.109218,80.7294759 143.120657,111.459508 113.6,133.6 C88,152.8 0,177.847966 0,177.847966 C0,177.847966 38.1271858,120.715657 51.0635929,48.3578287 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.8" y="-0.8" width="165.164755" height="179.426282">
+            <rect x="-0.8" y="-0.778315331" width="165.164755" height="179.426282" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <path d="M53.1202776,128.462059 C-17.3973297,99.8233558 3.53486617,50.935558 5.08237081,47.616353 C6.62987545,44.297148 46.9181455,-53.8240087 154.711836,41.6235965 C185.722497,73.4394649 199.677294,132.415221 158.059486,207.395984 C116.441678,282.376746 38.8386102,323 38.8386102,323 C38.8386102,323 99.6909321,293.166705 115.214484,222.934158 C115.214484,222.934158 128.808327,159.200588 53.1202776,128.462059 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1.55199358" y="-1.55199358" width="186.103987" height="326.103987">
+            <rect x="-0.551993581" y="-1.55199358" width="186.103987" height="326.103987" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+        <path d="M39.7924676,196.1583 C39.7924676,196.1583 -8.28935124,90.8397241 2.17935681,46.8585354 C12,5.6 60.2110134,-24.5456999 91.3761623,29.2393085 C122.541311,83.0243169 50.5390706,217.486838 50.5390706,217.486838 L39.7924676,196.1583 Z" id="path-7"></path>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.8" y="-0.8" width="100.111852" height="218.802828">
+            <rect x="-0.111851545" y="-0.515989906" width="100.111852" height="218.802828" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <path d="M34.3800885,76 C-17.6331256,76 -4.842991,17.0786517 34.3800885,5.97752809 C73.603168,-5.12359551 139.259192,-3.41573034 161.428759,34.1573034 C184.707541,73.6102383 216,76 216,76 C216,76 86.3933026,76 34.3800885,76 Z" id="path-9"></path>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.852675641" y="-0.852675641" width="217.705351" height="77.7053513">
+            <rect x="-0.852675641" y="-0.852675641" width="217.705351" height="77.7053513" fill="white"></rect>
+            <use xlink:href="#path-9" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Voeux-2016" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Voeux_2016_wisembly_mobile_FR" transform="translate(0.000000, -5891.000000)">
+            <g id="4-/-MOT-DE-LA-TEAM" transform="translate(-354.000000, 5646.000000)">
+                <g id="illustration-nuage-de-mots" transform="translate(310.400000, 244.200000)">
+                    <polygon id="ligne" fill="#07698D" points="42.6 679.8 363.6 679.8 363.6 675.8 42.6 675.8"></polygon>
+                    <g id="bulles">
+                        <g id="mobilité" transform="translate(264.600000, 284.000000)">
+                            <g id="Fill-1">
+                                <use fill="#07698D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <use stroke="#07698D" mask="url(#mask-2)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-1"></use>
+                            </g>
+                            <text id="Mobility" font-family="ProximaNova-Semibold, Proxima Nova" font-size="14" font-weight="500" line-spacing="36" fill="#FFFFFF">
+                                <tspan x="24.455" y="38">Mobility</tspan>
+                            </text>
+                        </g>
+                        <g id="transparence" transform="translate(227.600000, 467.600000)">
+                            <path d="M35.0426405,116.855218 C44.0194476,109.489378 55.5225655,101.166875 69.87137,92.7207977 C113.471194,67.0563267 144.214746,67.0563267 145.332748,43.1028964 C146.450749,19.1498464 120.738204,-15.6397953 63.7227342,7.74328804 C5.35783608,31.6799881 0.07138147,89.608607 0.0242233669,119.2 C-2.81374923e-12,134.4 1.94718603,148.519739 0.0242233669,159.311463 C8.86016226,143.06304 20.7501087,128.582692 35.0426405,116.855218 Z" id="Page-1" stroke="#07698D" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="#07698D"></path>
+                            <text id="Transparency" font-family="ProximaNova-Semibold, Proxima Nova" font-size="14" font-weight="500" line-spacing="36" fill="#FFFFFF">
+                                <tspan x="37.895" y="43.6">Transparency</tspan>
+                            </text>
+                        </g>
+                        <g id="productivité" transform="translate(1.600000, 448.400000)">
+                            <g id="Page-1">
+                                <use fill="#07698D" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                <use stroke="#07698D" mask="url(#mask-4)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+                            </g>
+                            <text id="Productivity" font-family="ProximaNova-Semibold, Proxima Nova" font-size="14" font-weight="500" line-spacing="36" fill="#FFFFFF">
+                                <tspan x="66.086" y="62.8">Productivity</tspan>
+                            </text>
+                        </g>
+                        <g id="com-video" transform="translate(69.600000, 300.000000)">
+                            <g id="Fill-1">
+                                <use fill="#07698D" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                <use stroke="#07698D" mask="url(#mask-6)" stroke-width="3.10398716" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-5"></use>
+                            </g>
+                            <text id="Video-Communication" font-family="ProximaNova-Semibold, Proxima Nova" font-size="20" font-weight="500" line-spacing="28" fill="#FFFFFF">
+                                <tspan x="62.54" y="58.8">Video</tspan>
+                                <tspan x="18.43" y="86.8">Communication</tspan>
+                            </text>
+                        </g>
+                        <g id="cohésion" transform="translate(269.600000, 8.200000)">
+                            <g id="Page-1">
+                                <use fill="#07698D" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                <use stroke="#07698D" mask="url(#mask-8)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-7"></use>
+                            </g>
+                            <text id="Cohesion" font-family="ProximaNova-Semibold, Proxima Nova" font-size="14" font-weight="500" line-spacing="36" fill="#FFFFFF">
+                                <tspan x="20.348" y="61.2">Cohesion</tspan>
+                            </text>
+                        </g>
+                        <g id="teletravail" transform="translate(48.800000, 212.200000)">
+                            <g id="Fill-1">
+                                <use fill="#07698D" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                <use stroke="#07698D" mask="url(#mask-10)" stroke-width="1.70535128" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-9"></use>
+                            </g>
+                            <text id="Remote-work" font-family="ProximaNova-Semibold, Proxima Nova" font-size="20" font-weight="500" line-spacing="28" fill="#FFFFFF">
+                                <tspan x="24.99" y="50.4">Remote work</tspan>
+                            </text>
+                        </g>
+                        <g id="engagement" transform="translate(0.000000, 0.200000)">
+                            <path d="M172.910457,199.337885 C31.4209147,182.675769 30.7879366,169.543614 10.1787838,141.83936 C-15.5043425,107.314208 2.28167302,-40.5971152 164.231435,11.6540211 C299.2,55.2 281.6,284.8 281.6,284.8 C269.384195,295.858243 314.4,216 172.910457,199.337885 Z" id="Fill-1" fill="#07698D"></path>
+                            <text id="Commitment" font-family="ProximaNova-Semibold, Proxima Nova" font-size="24" font-weight="500" line-spacing="36" fill="#FFFFFF">
+                                <tspan x="57.656" y="107.2">Commitment</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

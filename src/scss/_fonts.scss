@@ -1,0 +1,16 @@
+// Bulletproof syntax - http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/
+// The .otf file is needed for Windows
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: local("☺︎"), url("/fonts/proximanova-semibold.woff2") format("woff2"), url("/fonts/proximanova-semibold.woff") format("woff");
+  font-weight: $fw--semi-bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: local("☺︎"), url("/fonts/proximanova-regular.woff2") format("woff2"), url("/fonts/proximanova-regular.woff") format("woff");
+  font-weight: $base-fw;
+  font-style: normal;
+}

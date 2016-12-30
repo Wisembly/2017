@@ -147,8 +147,9 @@
     </section>
     <script async src="/browser-sync/browser-sync-client.js?v=2.18.5"></script>
     <script>
-      var urlParams = new URLSearchParams(window.location.search),
-          lang = urlParams.get('lang'),
+      var url = window.location.href,
+          splittedUrl = url.split('?lang='),
+          lang = splittedUrl[1] || '',
           page = document.querySelector('html');
       
       switch (lang) {

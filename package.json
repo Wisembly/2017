@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gabriel@wisembly.com",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "tapestry-css": "git://github.com/wisembly/tapestry.git#master"
   },

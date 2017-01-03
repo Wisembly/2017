@@ -52,7 +52,7 @@
 
     @include bp(null, phablet) {
       border-width: 100vw;
-      border-top-width: 200px;
+      border-top-width: 255px;
       left: -50%;
     }
   }
@@ -60,6 +60,7 @@
 
 .Section-title {
   margin-top: 0;
+  padding: 0 $pd--m;
   text-align: center;
 
   &:after {

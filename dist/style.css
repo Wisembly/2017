@@ -1647,13 +1647,14 @@ a {
 @media (max-width: 414px) {
   .Section--covered:before {
     border-width: 100vw;
-    border-top-width: 200px;
+    border-top-width: 255px;
     left: -50%;
   }
 }
 
 .Section-title {
   margin-top: 0;
+  padding: 0 1.42857rem;
   text-align: center;
 }
 

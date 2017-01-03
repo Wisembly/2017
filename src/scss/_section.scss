@@ -71,11 +71,19 @@
     width: r(8);
     background-color: $mint;
 
+    .Section--validate & {
+      background-color: $ocean-green;
+    }
+
     .Section--alt & {
-      background: $jelly-bean;
+      background-color: $jelly-bean;
     }
 
   }
+}
+
+.Section-title--neutral {
+  color: $slate-gray;
 }
 
 .Section-title--raw {
@@ -113,6 +121,8 @@
 }
 
 .Section-img--reactions {
+  margin: r(6) 0;
+  height: r(22);
   background-image: url('../svg/reactions.svg');
 }
 
@@ -229,4 +239,9 @@
   @include bp(tablet) {
     text-align: left;
   }
+}
+
+.Section-innovationList {
+  font-size: fz(1);
+  line-height: r(5);
 }

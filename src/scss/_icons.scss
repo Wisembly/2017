@@ -19,6 +19,7 @@
 }
 
 .Icon--checkmark {
+  margin-top: r(1);
   background-image: url("../../node_modules/tapestry-css/src/svg/icons/checkmark.svg");
   filter: hue-rotate(308deg) saturate(15) brightness(1);
 }

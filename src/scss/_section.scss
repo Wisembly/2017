@@ -43,7 +43,7 @@
 
   &:before {
     z-index: 0;
-    @include pos(a 0 null null 0);
+    @include pos(a 0 0 null null);
     content: "";
     display: block;
     border: 50vw solid $transparent;
